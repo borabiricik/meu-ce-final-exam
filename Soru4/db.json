@@ -1,0 +1,52 @@
+[
+    {
+        "no": "18-155-004",
+        "name": "Bora",
+        "surname": "Biricik",
+        "visa":65,
+        "final":75
+    },
+    {
+        "no": "18-155-005",
+        "name": "Ece",
+        "surname": "Biricik",
+        "visa":65,
+        "final":100
+    },
+    {
+        "no": "18-155-006",
+        "name": "Ece",
+        "surname": "Biricik",
+        "visa":45,
+        "final":76
+    },
+
+    {
+        "no": "18-155-056",
+        "name": "Esra Nur",
+        "surname": "Mülkpınar",
+        "visa":80,
+        "final":96
+    },
+    {
+        "no": "18-155-007",
+        "name": "Hakan",
+        "surname": "Biricik",
+        "visa":25,
+        "final":37
+    },
+    {
+        "no": "18-155-008",
+        "name": "Gülsün",
+        "surname": "Biricik",
+        "visa":0,
+        "final":10
+    },
+    {
+        "no": "18-155-009",
+        "name": "asdasd",
+        "surname": "asdasdasd",
+        "visa":100,
+        "final":75
+    }
+]
